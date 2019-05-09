@@ -1,0 +1,7 @@
+C:\Users\Yesica Moreno\source\ejercicioscaleb\2_TablaMultiplicarHasta20\TablaMultiplicarHasta20\bin\Debug\TablaMultiplicarHasta20.exe.config
+C:\Users\Yesica Moreno\source\ejercicioscaleb\2_TablaMultiplicarHasta20\TablaMultiplicarHasta20\bin\Debug\TablaMultiplicarHasta20.exe
+C:\Users\Yesica Moreno\source\ejercicioscaleb\2_TablaMultiplicarHasta20\TablaMultiplicarHasta20\bin\Debug\TablaMultiplicarHasta20.pdb
+C:\Users\Yesica Moreno\source\ejercicioscaleb\2_TablaMultiplicarHasta20\TablaMultiplicarHasta20\obj\Debug\2_TablaMultiplicarHasta20.csprojAssemblyReference.cache
+C:\Users\Yesica Moreno\source\ejercicioscaleb\2_TablaMultiplicarHasta20\TablaMultiplicarHasta20\obj\Debug\2_TablaMultiplicarHasta20.csproj.CoreCompileInputs.cache
+C:\Users\Yesica Moreno\source\ejercicioscaleb\2_TablaMultiplicarHasta20\TablaMultiplicarHasta20\obj\Debug\TablaMultiplicarHasta20.exe
+C:\Users\Yesica Moreno\source\ejercicioscaleb\2_TablaMultiplicarHasta20\TablaMultiplicarHasta20\obj\Debug\TablaMultiplicarHasta20.pdb
